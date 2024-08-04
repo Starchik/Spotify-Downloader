@@ -195,8 +195,7 @@ crypto_frame.pack(pady=10)
 buttons_info = [
     ("USDT ERC20", "0xC8c30E6355A592a4ef8AD2179741Af6AF722F5B1"),
     ("BTC", "18kxRMjRuuZd4ScK5PDktrJCTaa5QjS1AX"),
-    ("ETH", "0xC8c30E6355A592a4ef8AD2179741Af6AF722F5B1"),
-    #("BNB (BEP20)", "0x752a91f70bdda26f4b5656a69fdfc54411f4d6cf")
+    ("ETH", "0xC8c30E6355A592a4ef8AD2179741Af6AF722F5B1")
 ]
 
 for label, address in buttons_info:
