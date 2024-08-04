@@ -42,15 +42,16 @@ This is a Python application that allows you to download your saved Spotify trac
 1. **Create a Spotify app:**
 
    - Go to the [Spotify Developer Dashboard](https://developer.spotify.com/dashboard) and create a new app.
-   - Note down your Client ID and Client Secret.
    - Set the Redirect URI to `https://sites.google.com/view/spredirect/`.
+   - Note down your Client ID and Client Secret.
+   
 
-2. **Run the script:**
+3. **Run the script:**
     ```bash
     python spotify_downloader.py
     ```
 
-3. **Follow the instructions in the GUI:**
+4. **Follow the instructions in the GUI:**
 
     - Enter your Client ID and Client Secret.
     - Click 'Open Auth URL' to open the authorization URL in your browser.
