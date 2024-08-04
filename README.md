@@ -10,7 +10,7 @@ This is a Python application that allows you to download your saved Spotify trac
 - Multi-threaded downloading for faster performance.
 - GUI interface using Tkinter.
 
-##Executable
+## Executable
 
 - [Download Spotify Tracks Downloader](https://mega.nz/file/y2xChADa#HAYiuk5hQm2GcX6Itb8l_zc-SYk5sX3m78zx0MioZxg)
 
