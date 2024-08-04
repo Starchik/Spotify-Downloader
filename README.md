@@ -67,10 +67,9 @@ This is a Python application that allows you to download your saved Spotify trac
 
 If you would like to support the project, you can donate via the following methods:
 
-- **USDT TRC20:** TY2uCasX4mjsyPu8Wkv9zHAFNBBBFQ2KMm
-- **BTC:** 143KQQ7G7biWEuxcvfZHM6eastyxNQduYP
-- **ETH:** 0xd6506c16e4484fd013f6d16bb0e8f135e517f08a
-- **BNB (BEP20):** 0x752a91f70bdda26f4b5656a69fdfc54411f4d6cf
+- **USDT ERC20:** 0xC8c30E6355A592a4ef8AD2179741Af6AF722F5B1
+- **BTC:** 18kxRMjRuuZd4ScK5PDktrJCTaa5QjS1AX
+- **ETH:** 0xC8c30E6355A592a4ef8AD2179741Af6AF722F5B1
 
 You can also donate via [destream.net](https://destream.net/live/IgorStorcheus/donate).
 
