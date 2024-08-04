@@ -21,8 +21,8 @@ This is a Python application that allows you to download your saved Spotify trac
 
 1. **Clone the repository:**
     ```bash
-    git clone https://github.com/yourusername/spotify-tracks-downloader.git
-    cd spotify-tracks-downloader
+    git clone https://github.com/Starchik/Spotify-Downloader.git
+    cd spotify-downloader
     ```
 
 2. **Install the required Python packages:**
